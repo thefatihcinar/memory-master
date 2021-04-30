@@ -11,5 +11,5 @@ __Description:__ Basic Memory Game I have coded for Programming Language Concept
 <br>
 __Framework/Libraries Used:__ `Tkinter`
 <br><br>
-<img src="https://github.com/trfatihcinar/miscellaneous-codes/blob/main/Codes/Memory%20Master/Images/memory_master2.jpg?raw=true" width = "800" height = "600">
+<img src="https://github.com/trfatihcinar/memory-master/blob/main/Memory%20Master/Images/memory_master.jpg?raw=true" width = "800" height = "600">
 <br> 
